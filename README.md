@@ -18,6 +18,17 @@ You are provided with two types of information:
 As a data scientist, LTFS  has tasked you with building a model given the Top-up loan bucket of 128655 customers along with demographic and bureau data, predict the right bucket/period for 14745 customers in the test data.
 
 
+<h3> Data Dictionary </h3>
+Train_Data.zip 
+This zip file contains the train files for demography data and bureau data. The data dictionary is also included here.
+Test_Data.zip
+This zip file contains information on demography data and bureau data for a different set of customers
+Sample Submission
+This file contains the exact submission format for the predictions. Please submit CSV file only.
+
+Variable	Definition
+ID	Unique Identifier for a row
+Top-up Month	(Target) bucket/period for the Top-up Loan
 
 
 
