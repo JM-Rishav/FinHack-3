@@ -19,9 +19,11 @@ As a data scientist, LTFS  has tasked you with building a model given the Top-up
 
 
 <h3> Data Dictionary </h3>
-Train_Data.zip 
+
+<br>Train_Data.zip</br> 
 This zip file contains the train files for demography data and bureau data. The data dictionary is also included here.
-Test_Data.zip
+
+<br>Test_Data.zip</br>
 This zip file contains information on demography data and bureau data for a different set of customers
 Sample Submission
 This file contains the exact submission format for the predictions. Please submit CSV file only.
