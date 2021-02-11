@@ -30,7 +30,7 @@ This zip file contains information on demography data and bureau data for a diff
 This file contains the exact submission format for the predictions. Please submit CSV file only.
 
 <br>Variable	Definition</br>
-<br>ID	Unique Identifier for a row</br>
+ID	Unique Identifier for a row
 <br>Top-up Month	(Target) bucket/period for the Top-up Loan</br>
 
 
