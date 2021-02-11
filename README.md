@@ -25,7 +25,8 @@ This zip file contains the train files for demography data and bureau data. The 
 
 <br>Test_Data.zip</br>
 This zip file contains information on demography data and bureau data for a different set of customers
-Sample Submission
+
+<br>Sample Submission</br>
 This file contains the exact submission format for the predictions. Please submit CSV file only.
 
 Variable	Definition
