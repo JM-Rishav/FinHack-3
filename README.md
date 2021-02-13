@@ -7,7 +7,7 @@ A loan is when you receive the money from a financial institution in exchange fo
 A top-up loan, true to its name, is a facility of availing further funds on an existing loan. When you have a loan that has already been disbursed and under repayment and if you need more funds then, you can simply avail additional funding on the same loan thereby minimizing time, effort and cost related to applying again.
 LTFS provides it's loan services to its customers and is interested in selling more of its top-up loan services to its existing customers so they have decided to identify when to pitch a top-up during the original loan tenure.
 If they correctly identify the most suitable time to offer a top-up, this will ultimately lead to more disbursals and can also help them beat competing offerings from other institutions.
-
+<img src="">
 <br> </br>
 To understand this behaviour, LTFS has provided data for its customers containing the information whether that particular customer took the Top-up service and when he took such Top-up service, represented by the target variable Top-up Month.
 
