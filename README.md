@@ -8,6 +8,7 @@ A top-up loan, true to its name, is a facility of availing further funds on an e
 LTFS provides it's loan services to its customers and is interested in selling more of its top-up loan services to its existing customers so they have decided to identify when to pitch a top-up during the original loan tenure.
 If they correctly identify the most suitable time to offer a top-up, this will ultimately lead to more disbursals and can also help them beat competing offerings from other institutions.
 <img src="https://github.com/JM-Rishav/FinHack-3/blob/main/Final%20data/PS_1.png">
+
 <br> </br>
 To understand this behaviour, LTFS has provided data for its customers containing the information whether that particular customer took the Top-up service and when he took such Top-up service, represented by the target variable Top-up Month.
 
