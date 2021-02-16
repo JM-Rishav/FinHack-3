@@ -10,6 +10,7 @@ If they correctly identify the most suitable time to offer a top-up, this will u
 <img src="https://github.com/JM-Rishav/FinHack-3/blob/main/Final%20data/PS_1.png">
 
 <br> </br>
+
 To understand this behaviour, LTFS has provided data for its customers containing the information whether that particular customer took the Top-up service and when he took such Top-up service, represented by the target variable Top-up Month.
 
 You are provided with two types of information: 
